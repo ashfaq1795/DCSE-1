@@ -1,0 +1,27 @@
+-------------------------------------------------
+Python Bootcamp 2020 
+by 
+Engr. Sumayyea Salahuddin
+-------------------------------------------------
+
+Agenda items:
+
+00.) Opening
+01.) Types of numbers in Python
+02.) Variable Assignment and Working with Numbers
+03.) Strings
+04.) Lists
+05.) Dictionaries
+06.) Tuple
+07.) Sets
+08.) Object Type Casting
+09.) Decision Making 
+10.) Loops
+11.) Methods
+12.) Functions
+13.) Built-in Functions
+14.) Object-Oriented Progaramming
+15.) What's Next?
+16.) Closing
+
+Thank you
