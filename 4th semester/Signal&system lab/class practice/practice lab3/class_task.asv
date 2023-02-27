@@ -1,0 +1,28 @@
+clc
+clear all 
+close all
+%hilbert matrix using for loooop...
+
+x=input('please enter the size of matrix: ');
+disp('hilbert matrix is :');
+for i=1:1:x
+    for j=1:1:x
+        y(i,j)=1/(i+j-1);
+    end
+end
+disp(y);
+
+
+%hilbert martix using while loop...
+a=input('please enter size of matrix');
+r=1;
+while (r<=a)
+    c=1;
+    while (c<=n)
+        a(r,c)=1/(r+c-1);
+    end
+    r=r+1;
+end
+disp('hilberrt mat
+
+        

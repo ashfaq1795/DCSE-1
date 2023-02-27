@@ -1,0 +1,39 @@
+clc
+clear all
+close all
+result=0;
+a=input('CP grade point: ');
+h=input('credit hour: ');
+result=result+g*h
+b=input('CS-1 grade point: ');
+i=input('credit hour: ');
+
+c=input('DE grade point: ');
+j=input('credit hour: ');
+d=input('EDG grade point: ');
+k=input('credit hour: ');
+e=input('PAk study grade point: ');
+l=input('credit hour: ');
+f=input('CPS grade point: ');
+m=input('credit hour: ');
+
+g=input('CP lab grade point: ');
+n=input('credit hour: ');
+x=input('EDG lab grade point: ');
+o=input('credit hour: ');
+
+y=input('CS-1 lab grade point: ');
+p=input('credit hour: ');
+q=h+i+j+k+l+m+n+o+p;
+result=a+b+c+d+e+f+g+x+y;
+Cgpa=result/q;
+disp('CGPA= ');
+disp(Cgpa);
+
+
+
+
+
+
+
+

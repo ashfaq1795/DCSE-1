@@ -1,0 +1,15 @@
+clc
+clear all
+close all
+time=clock;
+v1=input('enter a v1=: ');
+v2=input('enter a v2=: ');
+v1=v1+v2;
+v2=v1-v2;
+v1=v1-v2;
+timetaken=etime(clock,time);
+disp
+disp(v1);
+disp(v2);
+disp('time taken=')
+disp(timetaken);
