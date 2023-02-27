@@ -1,0 +1,16 @@
+clc;
+clear all;
+close all;
+disp('********Task 01*********');
+disp(
+x=rand(1,8)
+for i=1:8;
+    if x(i)>0.5
+        x(i)=1;
+    else
+        x(i)=0;
+    end
+end
+disp(x);
+
+    
